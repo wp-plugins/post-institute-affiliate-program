@@ -1,0 +1,4 @@
+/* Style only the child items not the nested items.  */
+ul.pia-products > li {padding:15px; background:#f8f8f8;display:block; border:1px #ccc dotted; margin: 5px 0;}
+ul.pia-products > li .title {font-weight:bold; font-size:1.2em; display:block; padding-bottom:5px;}
+ul.pia-products > li .clear {clear: both; line-height:1px;}
