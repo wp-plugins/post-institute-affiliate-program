@@ -1,4 +1,4 @@
-<?php
+<?php
 /**
   Plugin Name: ES Post Institute Affiliate Program
   Plugin URI: http://www.equalserving.com/wordpress-plugins/post-institute-affiliate-wordpress-plugin/

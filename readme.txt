@@ -4,7 +4,7 @@ Donate link: http://www.postinstitute.com/tiny/198/AffiliateProgram.html
 Tags: Post Institute, Affiliate, Plugin, difficult children, rad children, rad adult
 Requires at least: 3.0
 Tested up to: 3.3.1
-Stable tag: 0.2
+Stable tag: 0.2.1
 
 Earn money by introducing new customers to Post Institute. Easily show product details from Post Institute product portfolio on a WordPress post or page or as a sidebar widget.
 
