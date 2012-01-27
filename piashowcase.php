@@ -6,7 +6,7 @@
   Configuration requires entering an affiliate id to earn commissions.
 
   Author: EqualServing.com
-  Version: 0.1
+  Version: 0.2
   Author URI: http://www.equalserving.com
 
   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=H8KWRPTET2SK2&lc=US&item_name=Post%20Institute%20Affiliate%20Wordpress%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
