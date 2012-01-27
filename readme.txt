@@ -21,8 +21,8 @@ You must be a member of the Post Institute Affiliate program.
 * Direct buy option at the results page with your affiliate link.
 
 Related Links:
-* <a href="http://www.postinstitute.com/tiny/198/AffiliateProgram.html" title="Post Institute Affiliate Program">Post Institute Affiliate Program</a>
-* <a href="http://www.equalserving.com/wordpress-plugins/post-institute-affiliate-wordpress-plugin/" title="Post Institute Affiliate Plugin FAQ">Support and FAQ</a>
+* <a href="http://www.postinstitute.com/trk.html?p=MD1&w=asu" title="Post Institute Affiliate Program">Post Institute Affiliate Program</a>
+* <a href="http://www.equalserving.com/forum/wordpress-plugin-group3/post-institute-affiliate-program-wordpress-plugin-forum1/" title="Post Institute Affiliate Plugin FAQ">Support and FAQ</a>
 
 == Installation ==
 
@@ -36,7 +36,7 @@ Once you have the plugin installed, activate it through the in WordPress 'Plugin
 
 = Q: How do enroll in the Post Institute Affiliate Program? =
 
-A: First, you must apply for and be accepted to the Post Institute Affiliate Program. Visit <a href="http://www.postinstitute.com/trk.html?p=MDAFFMGR&w=asu">http://www.postinstitute.com/tiny/198/AffiliateProgram.html</a> to apply.
+A: First, you must apply for and be accepted to the Post Institute Affiliate Program. Visit <a href="http://www.postinstitute.com/trk.html?p=MD1&w=asu">http://www.postinstitute.com/tiny/198/AffiliateProgram.html</a> to apply.
 
 = Q: How can I learn more about the Post Institute Affiliate Program? =
 
