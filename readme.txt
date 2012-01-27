@@ -3,8 +3,8 @@ Contributors: equalserving
 Donate link: http://www.postinstitute.com/tiny/198/AffiliateProgram.html
 Tags: Post Institute, Affiliate, Plugin, difficult children, rad children, rad adult
 Requires at least: 3.0
-Tested up to: 3.3
-Stable tag: 0.1
+Tested up to: 3.3.1
+Stable tag: 0.2
 
 Earn money by introducing new customers to Post Institute. Easily show product details from Post Institute product portfolio on a WordPress post or page or as a sidebar widget.
 
@@ -48,7 +48,7 @@ A: Please check <a href="http://www.equalserving.com/wordpress-plugins/post-inst
 
 == Screenshots ==
 
-1. Configration of Post Institute Affiliate plugin.
+1. Configuration of Post Institute Affiliate plugin.
 
 2. Post Institute Affiliate Center Link Generator page - where you will find product codes.
 
@@ -57,7 +57,9 @@ A: Please check <a href="http://www.equalserving.com/wordpress-plugins/post-inst
 4. Configuring the Post Institute Affiliate plugin widget.
 
 == Changelog ==
-
+= 0.2 =
+* Correct nullspace in feed URL
+* Minor CSS change.
 = 0.1 =
 * Initial release
 
