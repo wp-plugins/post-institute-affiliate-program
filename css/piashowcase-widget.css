@@ -1,6 +1,0 @@
-#sidebar-pia-products ul {margin: 0;}
-#sidebar-pia-products, #sidebar-pia-products li{margin:0;padding:0;list-style:none; text-align:left;}
-#sidebar-pia-products li img {width: 100px; float:left;}
-#sidebar-pia-products li .title {font-weight:bold; font-size:12px;display:block;padding-bottom:3px;line-height: 16px;}
-#sidebar-pia-products {idth:250px;font-size:10px;line-height:110%;}
-#sidebar-pia-products li{padding:5px;background:#fff;display:none; /* hide the items at first only to display one with javascript */	}
