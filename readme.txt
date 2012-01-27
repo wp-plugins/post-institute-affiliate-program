@@ -36,7 +36,7 @@ Once you have the plugin installed, activate it through the in WordPress 'Plugin
 
 = Q: How do enroll in the Post Institute Affiliate Program? =
 
-A: First, you must apply for and be accepted to the Post Institute Affiliate Program. Visit <a href="http://www.postinstitute.com/trk.html?p=MDAFFMGR&w=asu">http://www.postinstitute.com/tiny/198/AffiliateProgram.html</a> to apply.
+A: First, you must apply for and be accepted to the Post Institute Affiliate Program. Visit <a href="http://www.postinstitute.com/trk.html?p=MD1&w=asu">http://www.postinstitute.com/tiny/198/AffiliateProgram.html</a> to apply.
 
 = Q: How can I learn more about the Post Institute Affiliate Program? =
 
